@@ -1,0 +1,10 @@
+{
+  "AppSettings": {
+    "SiteTitle": "Home.Dash"
+  },
+  "Data": {
+    "DefaultConnection": {
+      "ConnectionString": "Server=(localdb)\\mssqllocaldb;Database=aspnet5-Home.Dash-a14d42cb-62ed-43cc-977c-3ae54e171941;Trusted_Connection=True;MultipleActiveResultSets=true"
+    }
+  }
+}

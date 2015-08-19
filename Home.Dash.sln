@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{01B56CF5-E9F4-42C2-8CA5-9A05B39EC41D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{4C7303D6-023A-4429-9268-356DB5A50248}"
+	ProjectSection(SolutionItems) = preProject
+		global.json = global.json
+	EndProjectSection
+EndProject
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "Home.Dash", "src\Home.Dash\Home.Dash.xproj", "{9E0454EC-1F62-4069-90B2-4D06BB91B461}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9E0454EC-1F62-4069-90B2-4D06BB91B461}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E0454EC-1F62-4069-90B2-4D06BB91B461}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E0454EC-1F62-4069-90B2-4D06BB91B461}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E0454EC-1F62-4069-90B2-4D06BB91B461}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{9E0454EC-1F62-4069-90B2-4D06BB91B461} = {01B56CF5-E9F4-42C2-8CA5-9A05B39EC41D}
+	EndGlobalSection
+EndGlobal
